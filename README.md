@@ -1,4 +1,6 @@
-brooklyn-creative
+Brooklyn Creative
 =================
 
-bcl site
+BCL Site issues, bugs, features.
+
+
